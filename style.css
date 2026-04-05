@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: #1A1A1A;
+     color: white;;
+
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    margin: 1rem;
+    border-radius: 15px;
+    
+}
+.game_box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.one{
+    background-color: #FF4C4C;
+    box-shadow: 4px 4px  black;
+}
+.two{
+    background-color: #4CFF4C;
+    box-shadow: 5px 5px  black;
+}
+.three{
+    background-color: #4CA6FF;
+    box-shadow: 4px 4px  black;
+}
+.four{
+    background-color: #FFFF4C;
+    box-shadow: 4px 4px  black;
+}
+.five{
+    background-color: #B84CFF;
+    box-shadow: 4px 4px  black;
+}
+.six{
+    background-color: #FF914C;
+    box-shadow: 4px 4px  black;
+}  
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(1, 65, 1);
+}
+
+
